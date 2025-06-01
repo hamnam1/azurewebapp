@@ -4,9 +4,11 @@
   "description": "A Node.js app that shows a random joke",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "build": "echo 'No build step needed'"
   },
   "dependencies": {
     "axios": "^0.21.1"
   }
 }
+"build": "echo 'No build step needed'"
